@@ -1,4 +1,4 @@
-#eClone Sopping
+#eClone Shopping
 
 eClone Shopping is a simple online store bulit with React.
 It let's users browse products, add to cart, and see totals - all in one place.
