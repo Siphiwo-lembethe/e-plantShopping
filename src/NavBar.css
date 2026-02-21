@@ -1,0 +1,33 @@
+.navbar {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 15px 30px;
+ background-color: #2f855a;
+ color: white;
+}
+
+.logo {
+ margin: 0;
+ cursor: pointer;
+}
+
+.slogan {
+ margin: 0;
+ font-size: 14px;
+}
+
+.nav-right {
+ display: flex;
+ align-items: center;
+ gap: 30px;
+}
+
+.plants-link {
+ cursor: pointer;
+}
+
+.cart-icon {
+ cursor: pointer;
+ font-size: 18px;
+}
